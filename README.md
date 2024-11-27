@@ -1,3 +1,3 @@
-# my-first-repo
+## Release v1.0
 
-This section was added as part of the new feature development.
+This is the first official release of the project.
